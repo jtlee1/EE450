@@ -1,7 +1,7 @@
 
 a)Name: Justin Lee
-b)Student ID: 4109118270
-c)I finish all the required part but did not do the optional part.
+b)
+c)
 d)
 Makefile:Supports make all(compile all required code) and make clean(remove exe files)
 client.cpp:Get instructions and pass to serverM. Recieve output from serverM and print.
